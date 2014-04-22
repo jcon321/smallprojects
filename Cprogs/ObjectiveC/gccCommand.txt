@@ -1,0 +1,2 @@
+gcc main.m Add.m `gnustep-config --objc-flags` `gnustep-config --objc-libs` \
+-lobjc -lgnustep-base -o main
